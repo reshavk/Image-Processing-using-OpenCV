@@ -1,0 +1,6 @@
+OpenCV can also be used for drawing our own images
+
+1. Define the dimension of the image
+2. Create the image with numpy arrays
+3. Create black background by filling the array with zeroes
+4. Implement drawing functions 
